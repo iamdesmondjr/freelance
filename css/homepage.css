@@ -1,0 +1,51 @@
+body *:hover{
+	/*border:1px solid pink;*/
+}
+
+.background-image{
+	background-image: url(../images/cover.png);
+	background-size: cover;
+	background-position: center;
+	background-position: fixed;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	min-height: 70vh;
+}
+.search{
+	height: 50px;
+}
+.board{
+	background-color: rgba(244,244,244,.6);
+	/*border: 2px solid red;*/
+	max-width: 80%;
+
+}
+.board-2{
+	background-color: rgba(244,244,244,.8);
+	/*border: 2px solid red;*/
+	max-width: 100%;
+	margin:0;
+	overflow: hidden;
+}
+.cat-card{
+
+}
+.top-lancers{
+	width: 199px;
+	height: 199px;
+}
+.social img{
+	width: 60px;
+	height: 60px;
+}
+.watermark{
+	margin-top: 200px;
+
+}
+.w-text{
+	position: absolute;
+	font-size: 100px;
+	top: -100px;
+	opacity: .3;
+	font-weight: bold;
+}

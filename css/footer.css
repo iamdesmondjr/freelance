@@ -1,0 +1,15 @@
+.footer-send-btn{
+	max-width: 100px;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+
+}
+.footer-navs a{
+	margin-top: 15px;
+	color: #B6B6B6;
+	text-decoration:none;
+}
+.footer-navs a:hover{
+	color:black;
+}

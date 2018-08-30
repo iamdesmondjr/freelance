@@ -1,0 +1,16 @@
+.h-100{
+	height: 100%;
+}
+.ttme{
+	outline: none;
+	/*border-radius: 0;*/
+}
+.no-rad{
+	/*border-radius: 0;*/
+}
+.ta-height{
+	min-height: 200px; 
+}
+.hide-overflow{
+	overflow: hidden;
+}
